@@ -53,6 +53,8 @@ of being honest I shall put all the technologies I know so far!</p>
 ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![MARIE Asembly Language](https://img.shields.io/badge/MARIE_Assembly_Language-%23ED8B00.svg?style=for-the-badge&logo=nasm&logoColor=white)
+
 
 <code>Languages On Learning Track</code>
 
@@ -67,6 +69,7 @@ of being honest I shall put all the technologies I know so far!</p>
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-02569B?style=for-the-badge&logo=android&logoColor=white)
 
 <code>Tools && Enviroments</code>
 
@@ -78,6 +81,7 @@ of being honest I shall put all the technologies I know so far!</p>
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Cmake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-C71A36?style=for-the-badge&logo=gradle&logoColor=white)
 </ul>
 </blockquote>
 <blockquote style="font-style: italic; color: whitesmoke"> 
